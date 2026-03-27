@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Library Category="ICs">
+	<Component _Type="Circuit.BucketBrigadeDevice, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null"
+               Stages="4096" Name="X1" PartNumber="MN3005" />
+	<Component _Type="Circuit.BucketBrigadeDevice, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null"
+               Stages="1024" Name="X1" PartNumber="MN3007" />
+	<Component _Type="Circuit.BucketBrigadeDevice, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null"
+               Stages="2048" Name="X1" PartNumber="MN3008" />
+	<Component _Type="Circuit.BucketBrigadeDevice, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null"
+               Stages="1024" Name="X1" PartNumber="MN3207" />
+	<Component _Type="Circuit.BucketBrigadeDevice, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null"
+               Stages="256" Name="X1" PartNumber="MN3208" />
+	<Component _Type="Circuit.BucketBrigadeDevice, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null"
+               Stages="4096" Name="X1" PartNumber="V3205" />
+	<Component _Type="Circuit.BucketBrigadeDevice, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null"
+               Stages="1024" Name="X1" PartNumber="V3207" />
+	<Component _Type="Circuit.BucketBrigadeDevice, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null"
+               Stages="256" Name="X1" PartNumber="V3208" />
+</Library>

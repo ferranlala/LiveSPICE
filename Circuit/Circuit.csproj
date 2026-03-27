@@ -17,6 +17,7 @@
     <Content Include="Components\OpAmps.xml" />
     <Content Include="Components\Readme.txt" />
     <Content Include="Components\Transistors.xml" />
+    <Content Include="Components\BBDs.xml" />
     <Content Include="Components\Tubes.xml">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Content>
